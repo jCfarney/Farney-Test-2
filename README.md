@@ -24,3 +24,5 @@ Mic Check
 # 7 Now you're syncing to GitHub and creating a version control timeline
 YouTube - Using Git with VS Code and Github
 https://www.youtube.com/watch?v=9cMWR-EGFuY
+
+Workspace check
