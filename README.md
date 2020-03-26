@@ -22,3 +22,5 @@ Mic Check
 # 5 Save repo to local machine (I use a cloud synced folder in C), click "Open Repository" and "Dont Save"
 # 6 VSC - Create new text file in cloned repo and push back to GitHub - Name/enter some text to file, Ctl+s, click source control, enter note of change, click checkmark to commit changes local on computer, at the bottom make sure VSC is signed into GitHub/click wheel to syncronize to GitHub
 # 7 Now you're syncing to GitHub and creating a version control timeline
+YouTube - Using Git with VS Code and Github
+https://www.youtube.com/watch?v=9cMWR-EGFuY
